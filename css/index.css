@@ -371,24 +371,25 @@ figure.snip1157 .author h5 span {
 
 .footer .box-container {
   display: grid;
+  margin-top: 2rem;
   grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
-  gap: 1.5rem;
-  padding: 0 5rem;
+  gap: 1rem;
+  padding: 0 2rem;
 }
 
 .footer .box h3 {
   color: white;
   font-size: 1.5rem;
-  margin-left: 2.5rem;
-  padding: 0.25rem 1rem;
+  margin-left: 1rem;
+  padding: 0.25rem 0.5rem;
 }
 
 .footer .box a {
   color: var(--bg-primary);
   font-size: 1rem;
   margin-bottom: 2rem;
-  margin-left: 2.5rem;
-  padding: 0.25rem 1rem;
+  margin-left: 1rem;
+  padding: 0.25rem 0.5rem;
   display: block;
 }
 
